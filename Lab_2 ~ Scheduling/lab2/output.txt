@@ -1,0 +1,34 @@
+
+This Earliest Deadline First program will schedule your tasks for you.
+
+Task B was completed at time 15.
+Task D was completed at time 55.
+!!! Task C missed its deadline at time 100!!!
+Task B was completed at time 115.
+Task E was completed at time 135.
+Task D was completed at time 175.
+!!! Task C missed its deadline at time 200!!!
+Task A was completed at time 210.
+Task B was completed at time 225.
+Task D was completed at time 265.
+!!! Task C missed its deadline at time 300!!!
+Task B was completed at time 315.
+Task E was completed at time 335.
+Task D was completed at time 375.
+!!! Task C missed its deadline at time 400!!!
+Task V was completed at time 405.
+Task Y was completed at time 415.
+Task X was completed at time 425.
+Task B was completed at time 440.
+Task Z was completed at time 455.
+Task W was completed at time 470.
+!!! Task D missed its deadline at time 500!!!
+!!! Task C missed its deadline at time 500!!!
+Task A was completed at time 510.
+Task B was completed at time 525.
+Task E was completed at time 545.
+Task D was completed at time 585.
+
+There were 0 preemptions that happened.
+There were 6 tasks that missed their deadlines.
+
